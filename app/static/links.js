@@ -20,6 +20,7 @@ export const teacher_numbers = {
     zhouyu:10000032,
     liuzhangyou:10000045,
     wuweiwei:10000027,
+    dongqian:10000042
 }
 
 function getWebUrl(web){
@@ -45,6 +46,8 @@ function getTeacherNumber(teacher){
             return teacher_numbers.liuzhangyou
         case '吴伟伟':
             return teacher_numbers.wuweiwei
+        case '董齐安':
+            return teacher_numbers.dongqian
         default:
             return null
     }
