@@ -7,7 +7,7 @@
  * */
 export const webs = {
     jynrt:'http://zjw.jyzqsh.com/#/teacher/',
-    cjtglm:'http://weixin.cjtglm.com/txsecurities-all/wx/vanalysts/vanalystsInfo/'
+    cjtglm:'http://new.cjtglm.com/#/teacher/'
 }
 
 /**
