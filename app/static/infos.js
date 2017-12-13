@@ -5,6 +5,7 @@ import bg20171130 from './img/20171130.jpg'
 import bg20171124 from './img/20171124.jpg'
 import bg20171201 from './img/20171201.jpg'
 import bg20171211 from './img/20171211.jpg'
+import bg20171213 from './img/20171213.jpg'
 
 
 export default {
@@ -49,5 +50,11 @@ export default {
     teacher: '马鑫',
     color: '#ECEBE6',
     top: '10.4rem'
+  },
+  '20171213': {
+    bg: bg20171213,
+    teacher: '吕向召',
+    color: '#E3E8EB',
+    top: '10.5rem'
   }
 }
