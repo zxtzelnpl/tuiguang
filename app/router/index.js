@@ -8,7 +8,7 @@ export default ()=> {
         <Router>
             <Switch>
                 <Route exact path="/:web/:data" component={Container}/>
-                <Route component={NoMatch}/>
+                <Route component={Container}/>
             </Switch>
         </Router>
     )
