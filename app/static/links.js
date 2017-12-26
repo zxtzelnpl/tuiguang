@@ -21,7 +21,8 @@ export const teacher_numbers = {
   liuzhangyou: 10000045,
   wuweiwei: 10000027,
   dongqian: 10000042,
-  lvxiangzhao:10000029
+  lvxiangzhao:10000029,
+  jiaoxiaoyi:10000043
 }
 
 function getWebUrl(web) {
@@ -51,6 +52,8 @@ function getTeacherNumber(teacher) {
       return teacher_numbers.dongqian
     case '吕向召':
       return teacher_numbers.lvxiangzhao
+    case '焦晓颖':
+      return teacher_numbers.jiaoxiaoyi
     default:
       return null
   }
