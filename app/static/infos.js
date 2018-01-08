@@ -9,6 +9,8 @@ import bg20171213 from './img/20171213.jpg'
 import bg20171213a from './img/20171213a.jpg'
 import bg20171226 from './img/20171226.jpg'
 import bg20171227 from './img/20171227.jpg'
+import bg20180108a from './img/20180108a.jpg'
+import bg20180108b from './img/20180108b.jpg'
 
 
 export default {
@@ -76,6 +78,18 @@ export default {
     bg:bg20171227,
     teacher: '马鑫',
     color:'#BCC0C1',
+    top:'10.5rem'
+  },
+  '20180108a':{
+    bg:bg20180108a,
+    teacher: '焦晓颖',
+    color:'#EEE9E3',
+    top:'10.5rem'
+  },
+  '20180108b':{
+    bg:bg20180108b,
+    teacher: '马鑫',
+    color:'#DBE0E3',
     top:'10.5rem'
   }
 }
