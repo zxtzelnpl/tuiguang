@@ -11,6 +11,7 @@ import bg20171226 from './img/20171226.jpg'
 import bg20171227 from './img/20171227.jpg'
 import bg20180108a from './img/20180108a.jpg'
 import bg20180108b from './img/20180108b.jpg'
+import bg20180111 from './img/20180111.jpg'
 
 
 export default {
@@ -91,5 +92,11 @@ export default {
     teacher: '马鑫',
     color:'#DBE0E3',
     top:'10.5rem'
+  },
+  '20180111':{
+    bg:bg20180111,
+    teacher: '马鑫',
+    color:'#EDF7F8',
+    top:'10.8rem'
   }
 }
