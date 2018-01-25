@@ -16,7 +16,6 @@ import bg20180116 from './img/20180116.jpg'
 import bg20180117 from './img/20180117.jpg'
 import bg20180125 from './img/20180125.jpg'
 
-
 export default {
   '20171110': {
     bg: bg20171110,
