@@ -14,7 +14,7 @@ export default class Container extends React.Component {
     }
 
     componentDidMount() {
-        let {web='cjtglm',data='20180117'} = this.props.match.params
+        let {web='cjtglm',data='20180125'} = this.props.match.params
         let info = infos[data]?infos[data]:{}
         let {teacher,bg,color,top} =info
         let url = make_link(web, teacher)
